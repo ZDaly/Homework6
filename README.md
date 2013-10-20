@@ -1,7 +1,7 @@
 Homework6
 =========
 
-This ReadMe file contains the information needed to run a "toy" workflow for Homework6 [STAT 545A Homework 6](http://www.stat.ubc.ca/~jenny/STAT545A/hw06_puttingAllTogether.html).
+This ReadMe file contains the information needed to run a "toy" workflow for [Homework 6](http://www.stat.ubc.ca/~jenny/STAT545A/hw06_puttingAllTogether.html).
 
 How to replicate my analysis
 
