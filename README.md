@@ -59,7 +59,8 @@ I wanted to visually explore whether there was a relationship between the freque
 
 Finally it is worth pointing out that from the tables I generated Brooklyn had the [best](https://github.com/ZDaly/Homework6/blob/master/Boroughs%20with%20best%20average%20response%20times.tsv) overall response times every month running, whereas Staten Island and Queens seemed to be in contention (with to a lesser extent The Bronx) for [worst](https://github.com/ZDaly/Homework6/blob/master/Boroughs%20with%20worst%20average%20response%20times.tsv) average response times.
 
-This pipline was created using:
+*This pipline was created using:*
+
 R version 2.15.3 (2013-03-01)
 Platform: x86_64-w64-mingw32/x64 (64-bit)
 
