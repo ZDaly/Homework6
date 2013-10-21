@@ -36,3 +36,5 @@ How to replicate my analysis:
 
 
 [<img src="https://github.com/ZDaly/Homework6/blob/master/barchart_incident_count_by_location.png">]
+
+![Image](../blob/master/barchart_incident_count_by_location.png?raw=true)
