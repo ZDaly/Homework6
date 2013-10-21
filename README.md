@@ -35,7 +35,7 @@ How to replicate my analysis:
      - [`barchart_incident_count_by_location.png`](https://github.com/ZDaly/Homework6/blob/master/barchart_incident_count_by_location.png)
      - [`sidebyside_response_time_changes_by_location.png`](https://github.com/ZDaly/Homework6/blob/master/sidebyside_response_time_changes_by_location.png)
      - [`line_chart_citywide_response_time_over_year.png`](https://github.com/ZDaly/Homework6/blob/master/line_chart_citywide_response_time_over_year.png)
-     - [ scatter_count_v_response.png](https://github.com/ZDaly/Homework6/blob/master/scatter_count_v_response.png)
+     - [ `scatter_count_v_response.png`](https://github.com/ZDaly/Homework6/blob/master/scatter_count_v_response.png)
 
 
 The actual figures are shown below:
