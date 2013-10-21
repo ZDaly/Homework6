@@ -37,6 +37,7 @@ How to replicate my analysis:
      - [`line_chart_citywide_response_time_over_year.png`](https://github.com/ZDaly/Homework6/blob/master/line_chart_citywide_response_time_over_year.png)
      - [`line_chart_citywide_counts_over_year.png`](https://github.com/ZDaly/Homework6/blob/master/line_chart_citywide_counts_over_year.png)
      - [ `scatter_count_v_response.png`](https://github.com/ZDaly/Homework6/blob/master/scatter_count_v_response.png)
+  * Note: Session Information is provided at the bottom of this document. 
 
 
 The actual figures are shown below:
