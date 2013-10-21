@@ -35,5 +35,12 @@ p4 + stat_smooth(method="lm") + facet_grid(type ~.) + xlab("Count") + ylab("Resp
 
 ggsave("scatter_count_v_response.png")
 
+## Make a line chart of changes over the year in Citywide counts of different types of incidents
+Fdat$type <- factor(Fdat$type, levels = c("Medical Emergencies","Non Medical Emergencies", "False Alarm", "Structural Fires","Non Structural Fires",  "Medical False Alarm"))
+p5 <- ggplot(data = Fdat[Fdat$location == "Citywide" & Fdat$type != "All Fire/Emergency Incidents",], aes(x = date, y = count, colour = type))
+p5 + geom_line(size = 1) + xlab("Month") + ylab("Incident Count") + scale_fill_hue(name = "Type of Incident") + ggtitle("Citywide Incident Count by \n Incident Type from July 2009 through June 2010")
+
+ggsave("line_chart_citywide_counts_over_year.png")
+
 ## Clean up after myself
-rm(Fdat, Cdat, p1, p2, p3)
+rm(Fdat, Cdat, p1, p2, p3, p4, p5)
