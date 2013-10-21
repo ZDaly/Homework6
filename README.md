@@ -35,6 +35,8 @@ How to replicate my analysis:
      - [`line_chart_citywide_response_time_over_year.png`](https://github.com/ZDaly/Homework6/blob/master/line_chart_citywide_response_time_over_year.png)
 
 
-[<img src="https://github.com/ZDaly/Homework6/blob/master/barchart_incident_count_by_location.png">]
-
 ![Image](https://github.com/ZDaly/Homework6/blob/master/barchart_incident_count_by_location.png?raw=true)
+
+![Image](https://github.com/ZDaly/Homework6/blob/master/sidebyside_response_time_changes_by_location.png?raw=true)
+
+![Image](https://github.com/ZDaly/Homework6/blob/master/line_chart_citywide_response_time_over_year.png?raw=true)
