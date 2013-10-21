@@ -1,0 +1,43 @@
+location	type	change_in_response_time
+Brooklyn	All Fire/Emergency Incidents	6
+Brooklyn	False Alarm	10
+Brooklyn	Medical Emergencies	3
+Brooklyn	Medical False Alarm	5
+Brooklyn	Non Medical Emergencies	8
+Brooklyn	Non Structural Fires	-3
+Brooklyn	Structural Fires	3
+Citywide	All Fire/Emergency Incidents	7
+Citywide	False Alarm	14
+Citywide	Medical Emergencies	4
+Citywide	Medical False Alarm	1
+Citywide	Non Medical Emergencies	9
+Citywide	Non Structural Fires	0
+Citywide	Structural Fires	4
+Manhattan	All Fire/Emergency Incidents	7
+Manhattan	False Alarm	18
+Manhattan	Medical Emergencies	2
+Manhattan	Medical False Alarm	-7
+Manhattan	Non Medical Emergencies	10
+Manhattan	Non Structural Fires	2
+Manhattan	Structural Fires	1
+Queens	All Fire/Emergency Incidents	6
+Queens	False Alarm	10
+Queens	Medical Emergencies	3
+Queens	Medical False Alarm	-10
+Queens	Non Medical Emergencies	8
+Queens	Non Structural Fires	-1
+Queens	Structural Fires	6
+Staten Island	All Fire/Emergency Incidents	-1
+Staten Island	False Alarm	20
+Staten Island	Medical Emergencies	11
+Staten Island	Medical False Alarm	12
+Staten Island	Non Medical Emergencies	-22
+Staten Island	Non Structural Fires	13
+Staten Island	Structural Fires	16
+The Bronx	All Fire/Emergency Incidents	12
+The Bronx	False Alarm	12
+The Bronx	Medical Emergencies	7
+The Bronx	Medical False Alarm	25
+The Bronx	Non Medical Emergencies	11
+The Bronx	Non Structural Fires	-2
+The Bronx	Structural Fires	7
