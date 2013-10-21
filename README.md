@@ -1,5 +1,6 @@
 Homework 6
 =========
+**Zachary Daly**
 
 This ReadMe file contains the information needed to run my workflow for [Homework 6](http://www.stat.ubc.ca/~jenny/STAT545A/hw06_puttingAllTogether.html).
 
