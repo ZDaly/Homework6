@@ -35,6 +35,7 @@ How to replicate my analysis:
      - [`barchart_incident_count_by_location.png`](https://github.com/ZDaly/Homework6/blob/master/barchart_incident_count_by_location.png)
      - [`sidebyside_response_time_changes_by_location.png`](https://github.com/ZDaly/Homework6/blob/master/sidebyside_response_time_changes_by_location.png)
      - [`line_chart_citywide_response_time_over_year.png`](https://github.com/ZDaly/Homework6/blob/master/line_chart_citywide_response_time_over_year.png)
+     - [ scatter_count_v_response.png](https://github.com/ZDaly/Homework6/blob/master/scatter_count_v_response.png)
 
 
 The actual figures are shown below:
@@ -47,5 +48,8 @@ This plot shows some rather unfortunate information: it seems that over the cour
 
 ![Image](https://github.com/ZDaly/Homework6/blob/master/line_chart_citywide_response_time_over_year.png?raw=true)
 This plot shows the average response time for all incident types, as it varied Citywide over the year. First off we can see that structural fires consistently have the quickest response time, and non medical emergencies the slowest. This makes sense in terms of how you would expect the FDNY to prioritize. There also seems to be a spike between January and April. This makes sense with what I know from growing up in NY: This is the time of year where snow can potentially snarl up traffic, which would slow the fire engines down.
+
+![Image](https://github.com/ZDaly/Homework6/blob/master/scatter_count_v_response.png?raw=true)
+I wanted to explore whether there was a relationship between the frequency of a type of incident and its average response time. In other words, as it gets "busier and busier" do response times slow down? From this figure this does not seem to be the case. If anything, times improve. Of course a confounder here could be that boroughs that tend to have higher counts may also have lower response times due to extra practice/resources.
 
 Finally it is worth pointing out that from the tables I generated (links above) Brooklyn had the best overall response times every month running, whereas Staten Island and Queens seemed to be in contention (with to a lesser extent The Bronx) for worst average response times.
