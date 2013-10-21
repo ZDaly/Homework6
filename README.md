@@ -14,7 +14,7 @@ How to replicate my analysis:
     - Makefile-like script: [`Makefile.R`](https://github.com/ZDaly/Homework6/blob/master/makefile.r)
   * Start a fresh RStudio session, make sure the above directory is the working directory, open `Makefile.R`, and click on "Source".
   * New files you should see after running the pipeline:
-    - Clean Data: [`fire_data_clean.tsv`](https://github.com/ZDaly/Homework6/blob/master/fire_data_clean.tsv)
+    - Cleaned Data: [`fire_data_clean.tsv`](https://github.com/ZDaly/Homework6/blob/master/fire_data_clean.tsv)
     - Tables:
      - [`Boroughs with best average response times.tsv`](https://github.com/ZDaly/Homework6/blob/master/Boroughs%20with%20best%20average%20response%20times.tsv)
      - [`Boroughs with worst average response times.tsv`](https://github.com/ZDaly/Homework6/blob/master/Boroughs%20with%20worst%20average%20response%20times.tsv)
