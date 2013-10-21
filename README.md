@@ -36,3 +36,4 @@ How to replicate my analysis:
 
 
 [test](‪C:\Users\Zoltan\Desktop\HW6\barchart_incident_count_by_location.png)
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
