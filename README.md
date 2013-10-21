@@ -30,7 +30,7 @@ How to replicate my analysis:
     - Tables:
      - [`Boroughs with best average response times.tsv`](https://github.com/ZDaly/Homework6/blob/master/Boroughs%20with%20best%20average%20response%20times.tsv)
      - [`Boroughs with worst average response times.tsv`](https://github.com/ZDaly/Homework6/blob/master/Boroughs%20with%20worst%20average%20response%20times.tsv)
-     - [`Change in average response times, by Borough and type.tsv`](https://github.com/ZDaly/Homework6/blob/master/Change%20in%20average%20response%20times%2C%20by%20Borough%20and%20type.tsv)
+     - [`Change in average response times, by Borough and type.tsv`](https://github.com/ZDaly/Homework6/blob/master/Change%20in%20average%20response%20times%2C%20by%20Borough%20and%20type.tsv) (Note: This table was visualized using the second figure)
     - Figures:
      - [`barchart_incident_count_by_location.png`](https://github.com/ZDaly/Homework6/blob/master/barchart_incident_count_by_location.png)
      - [`sidebyside_response_time_changes_by_location.png`](https://github.com/ZDaly/Homework6/blob/master/sidebyside_response_time_changes_by_location.png)
