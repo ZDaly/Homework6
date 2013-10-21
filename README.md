@@ -49,3 +49,9 @@ This plot shows the average response time for all incident types, as it varied C
 ![Table](https://github.com/ZDaly/Homework6/blob/master/Boroughs%20with%20best%20average%20response%20times.tsv?raw=true)
 
 Finally it is worth pointing out that from the tables I generated (links above) Brooklyn had the best overall response times every month running, whereas Staten Island and Queens seemed to be in contention (with to a lesser extent The Bronx) for worst average response times.
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
