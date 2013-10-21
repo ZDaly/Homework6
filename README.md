@@ -57,3 +57,22 @@ This plot shows the counts of different incident types as they varied Citywide o
 I wanted to visually explore whether there was a relationship between the frequency of a type of incident and its average response time. In other words, as it gets "busier and busier" do response times slow down? From this figure this does not seem to be the case. If anything, times improve. Of course a confounder here could be that boroughs that tend to have higher counts may also have lower response times due to extra practice/resources. Furthermore, as seen in the previous figure, there is little variation in counts (at least Citywide) so there may not be enough variation for me to work with.
 
 Finally it is worth pointing out that from the tables I generated Brooklyn had the [best](https://github.com/ZDaly/Homework6/blob/master/Boroughs%20with%20best%20average%20response%20times.tsv) overall response times every month running, whereas Staten Island and Queens seemed to be in contention (with to a lesser extent The Bronx) for [worst](https://github.com/ZDaly/Homework6/blob/master/Boroughs%20with%20worst%20average%20response%20times.tsv) average response times.
+
+This pipline was created using:
+R version 2.15.3 (2013-03-01)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+
+locale:
+[1] LC_COLLATE=English_Canada.1252  LC_CTYPE=English_Canada.1252    LC_MONETARY=English_Canada.1252
+[4] LC_NUMERIC=C                    LC_TIME=English_Canada.1252    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] ggplot2_0.9.3.1 plyr_1.8       
+
+loaded via a namespace (and not attached):
+ [1] colorspace_1.2-4   dichromat_2.0-0    digest_0.6.3       grid_2.15.3        gtable_0.1.2       labeling_0.2      
+ [7] MASS_7.3-23        munsell_0.4.2      proto_0.3-10       RColorBrewer_1.0-5 reshape2_1.2.2     scales_0.2.3      
+[13] stringr_0.6.2      tools_2.15.3      
