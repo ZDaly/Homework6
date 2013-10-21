@@ -1,0 +1,505 @@
+date	type	location	count	response
+2009-07-01	Structural Fires	Citywide	1947	234
+2009-07-01	Structural Fires	Manhattan	435	240
+2009-07-01	Structural Fires	The Bronx	432	239
+2009-07-01	Structural Fires	Staten Island	90	274
+2009-07-01	Structural Fires	Brooklyn	652	209
+2009-07-01	Structural Fires	Queens	338	257
+2009-07-01	Non Structural Fires	Citywide	1495	259
+2009-07-01	Non Structural Fires	Manhattan	349	256
+2009-07-01	Non Structural Fires	The Bronx	296	272
+2009-07-01	Non Structural Fires	Staten Island	103	278
+2009-07-01	Non Structural Fires	Brooklyn	438	239
+2009-07-01	Non Structural Fires	Queens	309	271
+2009-07-01	Medical Emergencies	Citywide	18606	252
+2009-07-01	Medical Emergencies	Manhattan	4895	257
+2009-07-01	Medical Emergencies	The Bronx	3429	257
+2009-07-01	Medical Emergencies	Staten Island	933	259
+2009-07-01	Medical Emergencies	Brooklyn	5344	231
+2009-07-01	Medical Emergencies	Queens	4005	270
+2009-07-01	Non Medical Emergencies	Citywide	15739	290
+2009-07-01	Non Medical Emergencies	Manhattan	4446	291
+2009-07-01	Non Medical Emergencies	The Bronx	3150	304
+2009-07-01	Non Medical Emergencies	Staten Island	877	324
+2009-07-01	Non Medical Emergencies	Brooklyn	4395	260
+2009-07-01	Non Medical Emergencies	Queens	2871	311
+2009-07-01	False Alarm	Citywide	2655	247
+2009-07-01	False Alarm	Manhattan	474	247
+2009-07-01	False Alarm	The Bronx	755	266
+2009-07-01	False Alarm	Staten Island	192	229
+2009-07-01	False Alarm	Brooklyn	565	222
+2009-07-01	False Alarm	Queens	669	251
+2009-07-01	Medical False Alarm	Citywide	408	253
+2009-07-01	Medical False Alarm	Manhattan	110	258
+2009-07-01	Medical False Alarm	The Bronx	75	240
+2009-07-01	Medical False Alarm	Staten Island	10	250
+2009-07-01	Medical False Alarm	Brooklyn	111	230
+2009-07-01	Medical False Alarm	Queens	102	282
+2009-07-01	All Fire/Emergency Incidents	Citywide	40850	267
+2009-07-01	All Fire/Emergency Incidents	Manhattan	10709	272
+2009-07-01	All Fire/Emergency Incidents	The Bronx	8137	277
+2009-07-01	All Fire/Emergency Incidents	Staten Island	2205	285
+2009-07-01	All Fire/Emergency Incidents	Brooklyn	11505	241
+2009-07-01	All Fire/Emergency Incidents	Queens	8294	283
+2009-08-01	Structural Fires	Citywide	1933	238
+2009-08-01	Structural Fires	Manhattan	439	244
+2009-08-01	Structural Fires	The Bronx	432	257
+2009-08-01	Structural Fires	Staten Island	80	272
+2009-08-01	Structural Fires	Brooklyn	613	206
+2009-08-01	Structural Fires	Queens	369	256
+2009-08-01	Non Structural Fires	Citywide	1283	258
+2009-08-01	Non Structural Fires	Manhattan	276	255
+2009-08-01	Non Structural Fires	The Bronx	230	281
+2009-08-01	Non Structural Fires	Staten Island	44	301
+2009-08-01	Non Structural Fires	Brooklyn	402	229
+2009-08-01	Non Structural Fires	Queens	331	276
+2009-08-01	Medical Emergencies	Citywide	18409	253
+2009-08-01	Medical Emergencies	Manhattan	4854	256
+2009-08-01	Medical Emergencies	The Bronx	3438	260
+2009-08-01	Medical Emergencies	Staten Island	838	266
+2009-08-01	Medical Emergencies	Brooklyn	5437	233
+2009-08-01	Medical Emergencies	Queens	3842	270
+2009-08-01	Non Medical Emergencies	Citywide	16859	295
+2009-08-01	Non Medical Emergencies	Manhattan	4621	302
+2009-08-01	Non Medical Emergencies	The Bronx	3786	317
+2009-08-01	Non Medical Emergencies	Staten Island	834	296
+2009-08-01	Non Medical Emergencies	Brooklyn	4571	259
+2009-08-01	Non Medical Emergencies	Queens	3047	312
+2009-08-01	False Alarm	Citywide	2814	246
+2009-08-01	False Alarm	Manhattan	514	257
+2009-08-01	False Alarm	The Bronx	779	261
+2009-08-01	False Alarm	Staten Island	198	244
+2009-08-01	False Alarm	Brooklyn	632	214
+2009-08-01	False Alarm	Queens	691	251
+2009-08-01	Medical False Alarm	Citywide	425	259
+2009-08-01	Medical False Alarm	Manhattan	132	256
+2009-08-01	Medical False Alarm	The Bronx	84	260
+2009-08-01	Medical False Alarm	Staten Island	15	284
+2009-08-01	Medical False Alarm	Brooklyn	94	226
+2009-08-01	Medical False Alarm	Queens	100	289
+2009-08-01	All Fire/Emergency Incidents	Citywide	41723	270
+2009-08-01	All Fire/Emergency Incidents	Manhattan	10836	278
+2009-08-01	All Fire/Emergency Incidents	The Bronx	8749	287
+2009-08-01	All Fire/Emergency Incidents	Staten Island	2009	278
+2009-08-01	All Fire/Emergency Incidents	Brooklyn	11749	241
+2009-08-01	All Fire/Emergency Incidents	Queens	8380	284
+2009-09-01	Structural Fires	Citywide	2096	238
+2009-09-01	Structural Fires	Manhattan	468	253
+2009-09-01	Structural Fires	The Bronx	449	240
+2009-09-01	Structural Fires	Staten Island	103	256
+2009-09-01	Structural Fires	Brooklyn	676	214
+2009-09-01	Structural Fires	Queens	400	253
+2009-09-01	Non Structural Fires	Citywide	1294	261
+2009-09-01	Non Structural Fires	Manhattan	277	263
+2009-09-01	Non Structural Fires	The Bronx	237	280
+2009-09-01	Non Structural Fires	Staten Island	64	256
+2009-09-01	Non Structural Fires	Brooklyn	362	231
+2009-09-01	Non Structural Fires	Queens	354	279
+2009-09-01	Medical Emergencies	Citywide	17073	255
+2009-09-01	Medical Emergencies	Manhattan	4592	256
+2009-09-01	Medical Emergencies	The Bronx	3230	267
+2009-09-01	Medical Emergencies	Staten Island	840	261
+2009-09-01	Medical Emergencies	Brooklyn	4927	234
+2009-09-01	Medical Emergencies	Queens	3484	274
+2009-09-01	Non Medical Emergencies	Citywide	14027	286
+2009-09-01	Non Medical Emergencies	Manhattan	4018	300
+2009-09-01	Non Medical Emergencies	The Bronx	2840	295
+2009-09-01	Non Medical Emergencies	Staten Island	761	296
+2009-09-01	Non Medical Emergencies	Brooklyn	3880	251
+2009-09-01	Non Medical Emergencies	Queens	2528	306
+2009-09-01	False Alarm	Citywide	2187	247
+2009-09-01	False Alarm	Manhattan	373	260
+2009-09-01	False Alarm	The Bronx	563	260
+2009-09-01	False Alarm	Staten Island	217	249
+2009-09-01	False Alarm	Brooklyn	457	212
+2009-09-01	False Alarm	Queens	577	251
+2009-09-01	Medical False Alarm	Citywide	405	254
+2009-09-01	Medical False Alarm	Manhattan	94	266
+2009-09-01	Medical False Alarm	The Bronx	92	237
+2009-09-01	Medical False Alarm	Staten Island	13	312
+2009-09-01	Medical False Alarm	Brooklyn	96	221
+2009-09-01	Medical False Alarm	Queens	110	279
+2009-09-01	All Fire/Emergency Incidents	Citywide	37082	267
+2009-09-01	All Fire/Emergency Incidents	Manhattan	9822	277
+2009-09-01	All Fire/Emergency Incidents	The Bronx	7411	276
+2009-09-01	All Fire/Emergency Incidents	Staten Island	1998	273
+2009-09-01	All Fire/Emergency Incidents	Brooklyn	10398	238
+2009-09-01	All Fire/Emergency Incidents	Queens	7453	283
+2009-10-01	Structural Fires	Citywide	2290	236
+2009-10-01	Structural Fires	Manhattan	501	248
+2009-10-01	Structural Fires	The Bronx	528	242
+2009-10-01	Structural Fires	Staten Island	92	254
+2009-10-01	Structural Fires	Brooklyn	749	212
+2009-10-01	Structural Fires	Queens	420	255
+2009-10-01	Non Structural Fires	Citywide	1110	256
+2009-10-01	Non Structural Fires	Manhattan	281	257
+2009-10-01	Non Structural Fires	The Bronx	191	266
+2009-10-01	Non Structural Fires	Staten Island	47	267
+2009-10-01	Non Structural Fires	Brooklyn	311	227
+2009-10-01	Non Structural Fires	Queens	280	280
+2009-10-01	Medical Emergencies	Citywide	17377	257
+2009-10-01	Medical Emergencies	Manhattan	4584	260
+2009-10-01	Medical Emergencies	The Bronx	3253	263
+2009-10-01	Medical Emergencies	Staten Island	904	270
+2009-10-01	Medical Emergencies	Brooklyn	5006	234
+2009-10-01	Medical Emergencies	Queens	3630	277
+2009-10-01	Non Medical Emergencies	Citywide	17663	288
+2009-10-01	Non Medical Emergencies	Manhattan	4721	289
+2009-10-01	Non Medical Emergencies	The Bronx	3645	305
+2009-10-01	Non Medical Emergencies	Staten Island	989	311
+2009-10-01	Non Medical Emergencies	Brooklyn	4893	254
+2009-10-01	Non Medical Emergencies	Queens	3415	313
+2009-10-01	False Alarm	Citywide	2135	251
+2009-10-01	False Alarm	Manhattan	375	257
+2009-10-01	False Alarm	The Bronx	544	262
+2009-10-01	False Alarm	Staten Island	203	248
+2009-10-01	False Alarm	Brooklyn	462	223
+2009-10-01	False Alarm	Queens	551	261
+2009-10-01	Medical False Alarm	Citywide	399	259
+2009-10-01	Medical False Alarm	Manhattan	101	246
+2009-10-01	Medical False Alarm	The Bronx	92	274
+2009-10-01	Medical False Alarm	Staten Island	12	271
+2009-10-01	Medical False Alarm	Brooklyn	100	225
+2009-10-01	Medical False Alarm	Queens	94	295
+2009-10-01	All Fire/Emergency Incidents	Citywide	40974	270
+2009-10-01	All Fire/Emergency Incidents	Manhattan	10563	274
+2009-10-01	All Fire/Emergency Incidents	The Bronx	8253	282
+2009-10-01	All Fire/Emergency Incidents	Staten Island	2247	286
+2009-10-01	All Fire/Emergency Incidents	Brooklyn	11521	241
+2009-10-01	All Fire/Emergency Incidents	Queens	8390	291
+2009-11-01	Structural Fires	Citywide	2430	238
+2009-11-01	Structural Fires	Manhattan	583	252
+2009-11-01	Structural Fires	The Bronx	546	240
+2009-11-01	Structural Fires	Staten Island	97	272
+2009-11-01	Structural Fires	Brooklyn	759	211
+2009-11-01	Structural Fires	Queens	445	258
+2009-11-01	Non Structural Fires	Citywide	1156	262
+2009-11-01	Non Structural Fires	Manhattan	260	253
+2009-11-01	Non Structural Fires	The Bronx	167	289
+2009-11-01	Non Structural Fires	Staten Island	100	278
+2009-11-01	Non Structural Fires	Brooklyn	342	230
+2009-11-01	Non Structural Fires	Queens	287	290
+2009-11-01	Medical Emergencies	Citywide	16751	258
+2009-11-01	Medical Emergencies	Manhattan	4284	265
+2009-11-01	Medical Emergencies	The Bronx	3122	268
+2009-11-01	Medical Emergencies	Staten Island	909	266
+2009-11-01	Medical Emergencies	Brooklyn	4832	236
+2009-11-01	Medical Emergencies	Queens	3604	272
+2009-11-01	Non Medical Emergencies	Citywide	15555	286
+2009-11-01	Non Medical Emergencies	Manhattan	4250	291
+2009-11-01	Non Medical Emergencies	The Bronx	3298	300
+2009-11-01	Non Medical Emergencies	Staten Island	790	302
+2009-11-01	Non Medical Emergencies	Brooklyn	4443	253
+2009-11-01	Non Medical Emergencies	Queens	2774	307
+2009-11-01	False Alarm	Citywide	1977	254
+2009-11-01	False Alarm	Manhattan	353	265
+2009-11-01	False Alarm	The Bronx	508	268
+2009-11-01	False Alarm	Staten Island	223	260
+2009-11-01	False Alarm	Brooklyn	416	217
+2009-11-01	False Alarm	Queens	477	261
+2009-11-01	Medical False Alarm	Citywide	328	248
+2009-11-01	Medical False Alarm	Manhattan	90	256
+2009-11-01	Medical False Alarm	The Bronx	60	242
+2009-11-01	Medical False Alarm	Staten Island	17	210
+2009-11-01	Medical False Alarm	Brooklyn	69	224
+2009-11-01	Medical False Alarm	Queens	92	273
+2009-11-01	All Fire/Emergency Incidents	Citywide	38197	269
+2009-11-01	All Fire/Emergency Incidents	Manhattan	9820	277
+2009-11-01	All Fire/Emergency Incidents	The Bronx	7701	281
+2009-11-01	All Fire/Emergency Incidents	Staten Island	2136	280
+2009-11-01	All Fire/Emergency Incidents	Brooklyn	10861	241
+2009-11-01	All Fire/Emergency Incidents	Queens	7679	285
+2009-12-01	Structural Fires	Citywide	2674	244
+2009-12-01	Structural Fires	Manhattan	650	254
+2009-12-01	Structural Fires	The Bronx	596	252
+2009-12-01	Structural Fires	Staten Island	130	270
+2009-12-01	Structural Fires	Brooklyn	816	218
+2009-12-01	Structural Fires	Queens	482	259
+2009-12-01	Non Structural Fires	Citywide	1358	256
+2009-12-01	Non Structural Fires	Manhattan	366	253
+2009-12-01	Non Structural Fires	The Bronx	214	278
+2009-12-01	Non Structural Fires	Staten Island	48	279
+2009-12-01	Non Structural Fires	Brooklyn	415	227
+2009-12-01	Non Structural Fires	Queens	315	278
+2009-12-01	Medical Emergencies	Citywide	16706	266
+2009-12-01	Medical Emergencies	Manhattan	4257	269
+2009-12-01	Medical Emergencies	The Bronx	3210	274
+2009-12-01	Medical Emergencies	Staten Island	900	278
+2009-12-01	Medical Emergencies	Brooklyn	4647	242
+2009-12-01	Medical Emergencies	Queens	3692	282
+2009-12-01	Non Medical Emergencies	Citywide	19205	293
+2009-12-01	Non Medical Emergencies	Manhattan	5017	300
+2009-12-01	Non Medical Emergencies	The Bronx	3937	303
+2009-12-01	Non Medical Emergencies	Staten Island	1018	300
+2009-12-01	Non Medical Emergencies	Brooklyn	5533	260
+2009-12-01	Non Medical Emergencies	Queens	3700	319
+2009-12-01	False Alarm	Citywide	1947	262
+2009-12-01	False Alarm	Manhattan	400	276
+2009-12-01	False Alarm	The Bronx	425	278
+2009-12-01	False Alarm	Staten Island	119	272
+2009-12-01	False Alarm	Brooklyn	439	234
+2009-12-01	False Alarm	Queens	564	260
+2009-12-01	Medical False Alarm	Citywide	370	272
+2009-12-01	Medical False Alarm	Manhattan	104	269
+2009-12-01	Medical False Alarm	The Bronx	51	295
+2009-12-01	Medical False Alarm	Staten Island	14	338
+2009-12-01	Medical False Alarm	Brooklyn	103	246
+2009-12-01	Medical False Alarm	Queens	98	285
+2009-12-01	All Fire/Emergency Incidents	Citywide	42260	277
+2009-12-01	All Fire/Emergency Incidents	Manhattan	10794	284
+2009-12-01	All Fire/Emergency Incidents	The Bronx	8433	288
+2009-12-01	All Fire/Emergency Incidents	Staten Island	2229	288
+2009-12-01	All Fire/Emergency Incidents	Brooklyn	11953	249
+2009-12-01	All Fire/Emergency Incidents	Queens	8851	296
+2010-01-01	Structural Fires	Citywide	2467	235
+2010-01-01	Structural Fires	Manhattan	624	251
+2010-01-01	Structural Fires	The Bronx	554	239
+2010-01-01	Structural Fires	Staten Island	91	256
+2010-01-01	Structural Fires	Brooklyn	773	203
+2010-01-01	Structural Fires	Queens	425	260
+2010-01-01	Non Structural Fires	Citywide	1239	251
+2010-01-01	Non Structural Fires	Manhattan	329	253
+2010-01-01	Non Structural Fires	The Bronx	214	276
+2010-01-01	Non Structural Fires	Staten Island	76	260
+2010-01-01	Non Structural Fires	Brooklyn	378	223
+2010-01-01	Non Structural Fires	Queens	242	264
+2010-01-01	Medical Emergencies	Citywide	16581	260
+2010-01-01	Medical Emergencies	Manhattan	4097	263
+2010-01-01	Medical Emergencies	The Bronx	3298	269
+2010-01-01	Medical Emergencies	Staten Island	850	270
+2010-01-01	Medical Emergencies	Brooklyn	4767	237
+2010-01-01	Medical Emergencies	Queens	3569	276
+2010-01-01	Non Medical Emergencies	Citywide	18234	286
+2010-01-01	Non Medical Emergencies	Manhattan	4874	291
+2010-01-01	Non Medical Emergencies	The Bronx	3869	299
+2010-01-01	Non Medical Emergencies	Staten Island	843	297
+2010-01-01	Non Medical Emergencies	Brooklyn	5176	254
+2010-01-01	Non Medical Emergencies	Queens	3472	309
+2010-01-01	False Alarm	Citywide	1725	259
+2010-01-01	False Alarm	Manhattan	313	267
+2010-01-01	False Alarm	The Bronx	410	277
+2010-01-01	False Alarm	Staten Island	126	248
+2010-01-01	False Alarm	Brooklyn	366	231
+2010-01-01	False Alarm	Queens	510	261
+2010-01-01	Medical False Alarm	Citywide	302	268
+2010-01-01	Medical False Alarm	Manhattan	77	267
+2010-01-01	Medical False Alarm	The Bronx	66	294
+2010-01-01	Medical False Alarm	Staten Island	7	248
+2010-01-01	Medical False Alarm	Brooklyn	79	235
+2010-01-01	Medical False Alarm	Queens	73	287
+2010-01-01	All Fire/Emergency Incidents	Citywide	40548	271
+2010-01-01	All Fire/Emergency Incidents	Manhattan	10314	277
+2010-01-01	All Fire/Emergency Incidents	The Bronx	8411	283
+2010-01-01	All Fire/Emergency Incidents	Staten Island	1993	280
+2010-01-01	All Fire/Emergency Incidents	Brooklyn	11539	242
+2010-01-01	All Fire/Emergency Incidents	Queens	8291	289
+2010-02-01	Structural Fires	Citywide	2202	241
+2010-02-01	Structural Fires	Manhattan	510	247
+2010-02-01	Structural Fires	The Bronx	552	245
+2010-02-01	Structural Fires	Staten Island	76	266
+2010-02-01	Structural Fires	Brooklyn	674	215
+2010-02-01	Structural Fires	Queens	390	270
+2010-02-01	Non Structural Fires	Citywide	1848	254
+2010-02-01	Non Structural Fires	Manhattan	630	252
+2010-02-01	Non Structural Fires	The Bronx	207	272
+2010-02-01	Non Structural Fires	Staten Island	35	267
+2010-02-01	Non Structural Fires	Brooklyn	584	235
+2010-02-01	Non Structural Fires	Queens	392	274
+2010-02-01	Medical Emergencies	Citywide	14517	265
+2010-02-01	Medical Emergencies	Manhattan	3511	267
+2010-02-01	Medical Emergencies	The Bronx	2772	265
+2010-02-01	Medical Emergencies	Staten Island	759	290
+2010-02-01	Medical Emergencies	Brooklyn	4311	245
+2010-02-01	Medical Emergencies	Queens	3164	284
+2010-02-01	Non Medical Emergencies	Citywide	16672	302
+2010-02-01	Non Medical Emergencies	Manhattan	4212	297
+2010-02-01	Non Medical Emergencies	The Bronx	3146	310
+2010-02-01	Non Medical Emergencies	Staten Island	1437	366
+2010-02-01	Non Medical Emergencies	Brooklyn	4824	272
+2010-02-01	Non Medical Emergencies	Queens	3053	319
+2010-02-01	False Alarm	Citywide	1548	275
+2010-02-01	False Alarm	Manhattan	268	286
+2010-02-01	False Alarm	The Bronx	304	287
+2010-02-01	False Alarm	Staten Island	137	275
+2010-02-01	False Alarm	Brooklyn	390	244
+2010-02-01	False Alarm	Queens	449	288
+2010-02-01	Medical False Alarm	Citywide	278	268
+2010-02-01	Medical False Alarm	Manhattan	58	271
+2010-02-01	Medical False Alarm	The Bronx	57	288
+2010-02-01	Medical False Alarm	Staten Island	12	305
+2010-02-01	Medical False Alarm	Brooklyn	80	232
+2010-02-01	Medical False Alarm	Queens	71	285
+2010-02-01	All Fire/Emergency Incidents	Citywide	37065	281
+2010-02-01	All Fire/Emergency Incidents	Manhattan	9189	280
+2010-02-01	All Fire/Emergency Incidents	The Bronx	7038	287
+2010-02-01	All Fire/Emergency Incidents	Staten Island	2456	334
+2010-02-01	All Fire/Emergency Incidents	Brooklyn	10863	255
+2010-02-01	All Fire/Emergency Incidents	Queens	7519	298
+2010-03-01	Structural Fires	Citywide	2325	242
+2010-03-01	Structural Fires	Manhattan	512	254
+2010-03-01	Structural Fires	The Bronx	511	249
+2010-03-01	Structural Fires	Staten Island	131	264
+2010-03-01	Structural Fires	Brooklyn	784	216
+2010-03-01	Structural Fires	Queens	387	264
+2010-03-01	Non Structural Fires	Citywide	1660	264
+2010-03-01	Non Structural Fires	Manhattan	348	254
+2010-03-01	Non Structural Fires	The Bronx	243	270
+2010-03-01	Non Structural Fires	Staten Island	139	289
+2010-03-01	Non Structural Fires	Brooklyn	572	248
+2010-03-01	Non Structural Fires	Queens	358	283
+2010-03-01	Medical Emergencies	Citywide	16929	257
+2010-03-01	Medical Emergencies	Manhattan	4441	262
+2010-03-01	Medical Emergencies	The Bronx	3221	264
+2010-03-01	Medical Emergencies	Staten Island	813	281
+2010-03-01	Medical Emergencies	Brooklyn	4932	235
+2010-03-01	Medical Emergencies	Queens	3522	273
+2010-03-01	Non Medical Emergencies	Citywide	21125	310
+2010-03-01	Non Medical Emergencies	Manhattan	4826	303
+2010-03-01	Non Medical Emergencies	The Bronx	4157	324
+2010-03-01	Non Medical Emergencies	Staten Island	2253	371
+2010-03-01	Non Medical Emergencies	Brooklyn	5825	271
+2010-03-01	Non Medical Emergencies	Queens	4064	331
+2010-03-01	False Alarm	Citywide	2157	273
+2010-03-01	False Alarm	Manhattan	356	273
+2010-03-01	False Alarm	The Bronx	581	281
+2010-03-01	False Alarm	Staten Island	211	294
+2010-03-01	False Alarm	Brooklyn	432	239
+2010-03-01	False Alarm	Queens	577	281
+2010-03-01	Medical False Alarm	Citywide	368	258
+2010-03-01	Medical False Alarm	Manhattan	75	250
+2010-03-01	Medical False Alarm	The Bronx	68	270
+2010-03-01	Medical False Alarm	Staten Island	8	253
+2010-03-01	Medical False Alarm	Brooklyn	127	239
+2010-03-01	Medical False Alarm	Queens	90	280
+2010-03-01	All Fire/Emergency Incidents	Citywide	44564	284
+2010-03-01	All Fire/Emergency Incidents	Manhattan	10558	283
+2010-03-01	All Fire/Emergency Incidents	The Bronx	8781	295
+2010-03-01	All Fire/Emergency Incidents	Staten Island	3555	338
+2010-03-01	All Fire/Emergency Incidents	Brooklyn	12672	252
+2010-03-01	All Fire/Emergency Incidents	Queens	8998	301
+2010-04-01	Structural Fires	Citywide	2173	239
+2010-04-01	Structural Fires	Manhattan	531	246
+2010-04-01	Structural Fires	The Bronx	470	244
+2010-04-01	Structural Fires	Staten Island	102	290
+2010-04-01	Structural Fires	Brooklyn	704	213
+2010-04-01	Structural Fires	Queens	366	260
+2010-04-01	Non Structural Fires	Citywide	1467	262
+2010-04-01	Non Structural Fires	Manhattan	378	277
+2010-04-01	Non Structural Fires	The Bronx	265	266
+2010-04-01	Non Structural Fires	Staten Island	119	294
+2010-04-01	Non Structural Fires	Brooklyn	377	226
+2010-04-01	Non Structural Fires	Queens	328	273
+2010-04-01	Medical Emergencies	Citywide	17252	253
+2010-04-01	Medical Emergencies	Manhattan	4525	260
+2010-04-01	Medical Emergencies	The Bronx	3145	260
+2010-04-01	Medical Emergencies	Staten Island	917	270
+2010-04-01	Medical Emergencies	Brooklyn	4966	232
+2010-04-01	Medical Emergencies	Queens	3699	267
+2010-04-01	Non Medical Emergencies	Citywide	15101	288
+2010-04-01	Non Medical Emergencies	Manhattan	4188	295
+2010-04-01	Non Medical Emergencies	The Bronx	3112	299
+2010-04-01	Non Medical Emergencies	Staten Island	995	300
+2010-04-01	Non Medical Emergencies	Brooklyn	4131	259
+2010-04-01	Non Medical Emergencies	Queens	2675	303
+2010-04-01	False Alarm	Citywide	2089	255
+2010-04-01	False Alarm	Manhattan	370	266
+2010-04-01	False Alarm	The Bronx	644	266
+2010-04-01	False Alarm	Staten Island	178	255
+2010-04-01	False Alarm	Brooklyn	402	223
+2010-04-01	False Alarm	Queens	495	257
+2010-04-01	Medical False Alarm	Citywide	383	251
+2010-04-01	Medical False Alarm	Manhattan	91	257
+2010-04-01	Medical False Alarm	The Bronx	75	252
+2010-04-01	Medical False Alarm	Staten Island	14	273
+2010-04-01	Medical False Alarm	Brooklyn	122	233
+2010-04-01	Medical False Alarm	Queens	81	265
+2010-04-01	All Fire/Emergency Incidents	Citywide	38465	268
+2010-04-01	All Fire/Emergency Incidents	Manhattan	10083	277
+2010-04-01	All Fire/Emergency Incidents	The Bronx	7711	277
+2010-04-01	All Fire/Emergency Incidents	Staten Island	2325	285
+2010-04-01	All Fire/Emergency Incidents	Brooklyn	10702	241
+2010-04-01	All Fire/Emergency Incidents	Queens	7644	280
+2010-05-01	Structural Fires	Citywide	2121	239
+2010-05-01	Structural Fires	Manhattan	529	247
+2010-05-01	Structural Fires	The Bronx	437	247
+2010-05-01	Structural Fires	Staten Island	101	274
+2010-05-01	Structural Fires	Brooklyn	703	213
+2010-05-01	Structural Fires	Queens	351	261
+2010-05-01	Non Structural Fires	Citywide	1538	258
+2010-05-01	Non Structural Fires	Manhattan	373	252
+2010-05-01	Non Structural Fires	The Bronx	267	280
+2010-05-01	Non Structural Fires	Staten Island	80	273
+2010-05-01	Non Structural Fires	Brooklyn	489	229
+2010-05-01	Non Structural Fires	Queens	329	286
+2010-05-01	Medical Emergencies	Citywide	19278	255
+2010-05-01	Medical Emergencies	Manhattan	5086	259
+2010-05-01	Medical Emergencies	The Bronx	3617	264
+2010-05-01	Medical Emergencies	Staten Island	916	282
+2010-05-01	Medical Emergencies	Brooklyn	5549	234
+2010-05-01	Medical Emergencies	Queens	4110	268
+2010-05-01	Non Medical Emergencies	Citywide	17866	293
+2010-05-01	Non Medical Emergencies	Manhattan	4847	292
+2010-05-01	Non Medical Emergencies	The Bronx	3580	307
+2010-05-01	Non Medical Emergencies	Staten Island	1074	304
+2010-05-01	Non Medical Emergencies	Brooklyn	4711	262
+2010-05-01	Non Medical Emergencies	Queens	3654	316
+2010-05-01	False Alarm	Citywide	2614	259
+2010-05-01	False Alarm	Manhattan	424	260
+2010-05-01	False Alarm	The Bronx	740	272
+2010-05-01	False Alarm	Staten Island	223	259
+2010-05-01	False Alarm	Brooklyn	475	233
+2010-05-01	False Alarm	Queens	752	263
+2010-05-01	Medical False Alarm	Citywide	431	247
+2010-05-01	Medical False Alarm	Manhattan	104	243
+2010-05-01	Medical False Alarm	The Bronx	107	249
+2010-05-01	Medical False Alarm	Staten Island	16	248
+2010-05-01	Medical False Alarm	Brooklyn	128	237
+2010-05-01	Medical False Alarm	Queens	76	263
+2010-05-01	All Fire/Emergency Incidents	Citywide	43848	271
+2010-05-01	All Fire/Emergency Incidents	Manhattan	11363	274
+2010-05-01	All Fire/Emergency Incidents	The Bronx	8748	283
+2010-05-01	All Fire/Emergency Incidents	Staten Island	2410	289
+2010-05-01	All Fire/Emergency Incidents	Brooklyn	12055	244
+2010-05-01	All Fire/Emergency Incidents	Queens	9272	288
+2010-06-01	Structural Fires	Citywide	1937	238
+2010-06-01	Structural Fires	Manhattan	422	241
+2010-06-01	Structural Fires	The Bronx	402	246
+2010-06-01	Structural Fires	Staten Island	93	290
+2010-06-01	Structural Fires	Brooklyn	663	212
+2010-06-01	Structural Fires	Queens	357	263
+2010-06-01	Non Structural Fires	Citywide	1741	259
+2010-06-01	Non Structural Fires	Manhattan	426	258
+2010-06-01	Non Structural Fires	The Bronx	312	270
+2010-06-01	Non Structural Fires	Staten Island	106	291
+2010-06-01	Non Structural Fires	Brooklyn	496	236
+2010-06-01	Non Structural Fires	Queens	401	270
+2010-06-01	Medical Emergencies	Citywide	19256	256
+2010-06-01	Medical Emergencies	Manhattan	5342	259
+2010-06-01	Medical Emergencies	The Bronx	3519	264
+2010-06-01	Medical Emergencies	Staten Island	943	270
+2010-06-01	Medical Emergencies	Brooklyn	5472	234
+2010-06-01	Medical Emergencies	Queens	3980	273
+2010-06-01	Non Medical Emergencies	Citywide	17689	299
+2010-06-01	Non Medical Emergencies	Manhattan	4820	301
+2010-06-01	Non Medical Emergencies	The Bronx	3853	315
+2010-06-01	Non Medical Emergencies	Staten Island	967	302
+2010-06-01	Non Medical Emergencies	Brooklyn	4650	268
+2010-06-01	Non Medical Emergencies	Queens	3399	319
+2010-06-01	False Alarm	Citywide	2695	261
+2010-06-01	False Alarm	Manhattan	497	265
+2010-06-01	False Alarm	The Bronx	780	278
+2010-06-01	False Alarm	Staten Island	202	249
+2010-06-01	False Alarm	Brooklyn	434	232
+2010-06-01	False Alarm	Queens	782	261
+2010-06-01	Medical False Alarm	Citywide	460	254
+2010-06-01	Medical False Alarm	Manhattan	127	251
+2010-06-01	Medical False Alarm	The Bronx	83	265
+2010-06-01	Medical False Alarm	Staten Island	19	262
+2010-06-01	Medical False Alarm	Brooklyn	124	235
+2010-06-01	Medical False Alarm	Queens	107	272
+2010-06-01	All Fire/Emergency Incidents	Citywide	43778	274
+2010-06-01	All Fire/Emergency Incidents	Manhattan	11634	279
+2010-06-01	All Fire/Emergency Incidents	The Bronx	8949	289
+2010-06-01	All Fire/Emergency Incidents	Staten Island	2330	284
+2010-06-01	All Fire/Emergency Incidents	Brooklyn	11839	247
+2010-06-01	All Fire/Emergency Incidents	Queens	9026	289
