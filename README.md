@@ -3,13 +3,13 @@ Homework 6
 
 This ReadMe file contains the information needed to run my workflow for [Homework 6](http://www.stat.ubc.ca/~jenny/STAT545A/hw06_puttingAllTogether.html).
 
-About the data: This analysis makes use of data located [here](https://nycopendata.socrata.com/Social-Services/FDNY-Monthly-Response-Times/j34j-vqvt?). Specifically, it is an analysis of data from the FDNY. The data has 5 different variables: Two are categorical (the borough or location, type of incident) and three are numerical (a count variable for each type of incident, an average time of response, and a date).
+About the data: This analysis makes use of data located [here](https://nycopendata.socrata.com/Social-Services/FDNY-Monthly-Response-Times/j34j-vqvt?). The data looks at the average response times to various types of calls across the city over the course of a year, running from July 2009to June 2010. The data has 5 different variables: Two are categorical (the borough or location, and type of incident) and three are numerical (a count variable for each type of incident, an average time of response for that type of incident in that location in that month, and a date recording the month).
 
 From the original dataset:
 * There are six different locations, corresponding to the 5 boroughs and a 6th "Citywide" location
 * There 7 types of incidents, including one aggregrated level (as with location)
 * Date is stored in an annoying format. It is coded as YYYYMM, with no separator
-* The response time is really problematic. It is being read in as a factor of form mm:ss, alas it is pretty useless in this form.
+* The response time is really problematic. It is being read in as a factor of strings of the form mm:ss. ALas in this form it is pretty useless.
 
 
 How to replicate my analysis:
@@ -35,8 +35,13 @@ How to replicate my analysis:
      - [`line_chart_citywide_response_time_over_year.png`](https://github.com/ZDaly/Homework6/blob/master/line_chart_citywide_response_time_over_year.png)
 
 
+The actual figures are shown below:
+
 ![Image](https://github.com/ZDaly/Homework6/blob/master/barchart_incident_count_by_location.png?raw=true)
+Several interesting pieces of information emerge from this first figure. The first is that Brooklyn has the most incidents. The second is that most of the time firefighters are not actually dealing with fires. Fortunately it also seems they have few false alarms, relative to total calls.
 
 ![Image](https://github.com/ZDaly/Homework6/blob/master/sidebyside_response_time_changes_by_location.png?raw=true)
+This plot shows some rather unfortunate information: it seems that over the course of the year, all boroughs except Staten Island saw an increase in overall response times (the red bar). Furthermore, it seems that Staten Island only actuallt improved its responses to non Medical Emergencies, but all other incident types saw an increase in the average response time. Interestingly, in each borough the incident type with the highest increae in response time is a "false alarm" type incident. Perhaps they have found a way to de-prioritize these, while still responding to them.
 
 ![Image](https://github.com/ZDaly/Homework6/blob/master/line_chart_citywide_response_time_over_year.png?raw=true)
+This plot shows the average response time for all incident types, as it varied Citywide over the year. First off we can see that structural fires consistently have the quickets response time, and non medical emergencies the slowest. This makes sensein terms of how you would expect the FDNY to prioritize. There also seems to be a spike between January and April. This makes sense with what I know from growing up in NY: This is the time of year where snow can potentially snarl up traffic, which would slow the fire engines down.
