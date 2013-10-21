@@ -5,6 +5,8 @@ This ReadMe file contains the information needed to run my workflow for [Homewor
 
 About the data: This analysis makes use of data located [here](https://nycopendata.socrata.com/Social-Services/FDNY-Monthly-Response-Times/j34j-vqvt?). The data looks at the average response times to various types of calls across the city over the course of a year, running from July 2009to June 2010. The data has 5 different variables: Two are categorical (the borough or location, and type of incident) and three are numerical (a count variable for each type of incident, an average time of response for that type of incident in that location in that month, and a date recording the month).
 
+This data is public and was created by the Fire Department of New York City on August 29th, 2011. It was updated June 23rd, 2013.
+
 From the original dataset:
 * There are six different locations, corresponding to the 5 boroughs and a 6th "Citywide" location
 * There 7 types of incidents, including one aggregrated level (as with location)
