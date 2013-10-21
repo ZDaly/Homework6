@@ -11,7 +11,7 @@ From the original dataset:
 * There are six different locations, corresponding to the 5 boroughs and a 6th "Citywide" location
 * There 7 types of incidents, including one aggregrated level (as with location)
 * Date is stored in an annoying format. It is coded as YYYYMM, with no separator
-* The response time is really problematic. It is being read in as a factor of strings of the form mm:ss. ALas in this form it is pretty useless.
+* The response time is really problematic. It is being read in as a factor of strings of the form mm:ss. Alas in this form it is pretty useless.
 
 
 How to replicate my analysis:
