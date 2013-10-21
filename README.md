@@ -47,9 +47,3 @@ This plot shows some rather unfortunate information: it seems that over the cour
 This plot shows the average response time for all incident types, as it varied Citywide over the year. First off we can see that structural fires consistently have the quickest response time, and non medical emergencies the slowest. This makes sense in terms of how you would expect the FDNY to prioritize. There also seems to be a spike between January and April. This makes sense with what I know from growing up in NY: This is the time of year where snow can potentially snarl up traffic, which would slow the fire engines down.
 
 Finally it is worth pointing out that from the tables I generated (links above) Brooklyn had the best overall response times every month running, whereas Staten Island and Queens seemed to be in contention (with to a lesser extent The Bronx) for worst average response times.
-
-<table>
-    <tr>
-        <td>https://github.com/ZDaly/Homework6/blob/master/Boroughs%20with%20best%20average%20response%20times.tsv?raw=true</td>
-    </tr>
-</table>
