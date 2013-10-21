@@ -29,5 +29,11 @@ p3 + geom_line(size = 1) + xlab("Month") + ylab("Response Time in Seconds") + sc
 
 ggsave("line_chart_citywide_response_time_over_year.png")
 
+## Make scatter plots, using facetting, of to explore whether there is a relationship between count and response time, by type of incident
+p4 <- ggplot(data = Fdat[Fdat$location != "Citywide" & Fdat$type !="All Fire/Emergency Incidents",], aes(x = count, y = response, colour = type)) + geom_point(size = 2)
+p4 + stat_smooth(method="lm") + facet_grid(type ~.) + xlab("Count") + ylab("Response Time in Seconds") + ggtitle("Scatter-plots of Incident Count V. Average Resonse Time, by Type of Incident")
+
+ggsave("scatter_count_v_response.png")
+
 ## Clean up after myself
 rm(Fdat, Cdat, p1, p2, p3)
