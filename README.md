@@ -3,7 +3,7 @@ Homework 6
 
 This ReadMe file contains the information needed to run my workflow for [Homework 6](http://www.stat.ubc.ca/~jenny/STAT545A/hw06_puttingAllTogether.html).
 
-About the data: This analysis makes use of Fire Deparment of New York City (FDNY) data located [here](https://nycopendata.socrata.com/Social-Services/FDNY-Monthly-Response-Times/j34j-vqvt?). The data looks at the average response times to various types of calls across the city over the course of a year, running from July 2009to June 2010. The data has 5 different variables: Two are categorical (the borough or location, and type of incident) and three are numerical (a count variable for each type of incident, an average time of response for that type of incident in that location in that month, and a date recording the month).
+About the data: This analysis makes use of Fire Deparment of New York City (FDNY) data located [here](https://nycopendata.socrata.com/Social-Services/FDNY-Monthly-Response-Times/j34j-vqvt?). The data looks at the average response times to various types of calls across the city over the course of a year, running from July 2009 to June 2010. The data has 5 different variables: Two are categorical (the borough or location, and type of incident) and three are numerical (a count variable for each type of incident, an average time of response for that type of incident in that location in that month, and a date recording the month).
 
 This data is public and was created by the Fire Department of New York City on August 29th, 2011. It was updated June 23rd, 2013.
 
