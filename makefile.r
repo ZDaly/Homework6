@@ -4,7 +4,6 @@
 outputs <- c(list.files(pattern = "*.tsv$"),  ##cleans out tsv files
              list.files(pattern = "*.png$"))  ##cleans out plots
 file.remove(outputs)
-rm(outputs)
 
 ## run my scripts
 source("01_data_clean.R") ##This script reads in the rough data as provided by NYC and cleans it
