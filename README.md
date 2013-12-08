@@ -4,13 +4,13 @@ Homework 6
 
 This ReadMe file contains the information needed to run my workflow for [Homework 6](http://www.stat.ubc.ca/~jenny/STAT545A/hw06_puttingAllTogether.html).
 
-About the data: This analysis makes use of Fire Deparment of New York City (FDNY) data located [here](https://nycopendata.socrata.com/Social-Services/FDNY-Monthly-Response-Times/j34j-vqvt?). The data looks at the average response times to various types of calls across the city over the course of a year, running from July 2009 to June 2010. The data has 5 different variables: Two are categorical (the borough or location, and type of incident) and three are numerical (a count variable for each type of incident, an average time of response for that type of incident in that location in that month, and a date recording the month).
+About the data: This analysis makes use of Fire Department of New York City (FDNY) data located [here](https://nycopendata.socrata.com/Social-Services/FDNY-Monthly-Response-Times/j34j-vqvt?). The data looks at the average response times to various types of calls across the city over the course of a year, running from July 2009 to June 2010. The data has 5 different variables: Two are categorical (the borough or location, and type of incident) and three are numerical (a count variable for each type of incident, an average time of response for that type of incident in that location in that month, and a date recording the month).
 
 This data is public and was created by the Fire Department of New York City on August 29th, 2011. It was updated June 23rd, 2013.
 
 From the original dataset:
 * There are six different locations, corresponding to the 5 boroughs and a 6th "Citywide" location
-* There 7 types of incidents, including one aggregrated level (as with location)
+* There 7 types of incidents, including one aggregated level (as with location)
 * Date is stored in an annoying format. It is coded as YYYYMM, with no separator
 * The response time is really problematic. It is being read in as a factor of strings of the form mm:ss. Alas in this form it is pretty useless.
 
@@ -60,8 +60,9 @@ I wanted to visually explore whether there was a relationship between the freque
 
 Finally it is worth pointing out that from the tables I generated Brooklyn had the [best](https://github.com/ZDaly/Homework6/blob/master/Boroughs%20with%20best%20average%20response%20times.tsv) overall response times every month running, whereas Staten Island and Queens seemed to be in contention (with to a lesser extent The Bronx) for [worst](https://github.com/ZDaly/Homework6/blob/master/Boroughs%20with%20worst%20average%20response%20times.tsv) average response times.
 
-*This pipline was created using:*
+*This pipeline was created using:*
 
+```
 R version 2.15.3 (2013-03-01)
 Platform: x86_64-w64-mingw32/x64 (64-bit)
 
@@ -79,3 +80,4 @@ loaded via a namespace (and not attached):
  [1] colorspace_1.2-4   dichromat_2.0-0    digest_0.6.3       grid_2.15.3        gtable_0.1.2       labeling_0.2      
  [7] MASS_7.3-23        munsell_0.4.2      proto_0.3-10       RColorBrewer_1.0-5 reshape2_1.2.2     scales_0.2.3      
 [13] stringr_0.6.2      tools_2.15.3      
+```
